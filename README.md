@@ -8,4 +8,4 @@ Apuntes de los conocimientos y prácticas para el correcto diseño de la capa de
 https://jgdurand.github.io/portafolio/
 
 ecommerce:
-http://numberless-leg.surge.sh/products
+http://numberless-leg.surge.sh/
