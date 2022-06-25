@@ -8,4 +8,6 @@ Apuntes de los conocimientos y prácticas para el correcto diseño de la capa de
 https://jgdurand.github.io/portafolio/
 
 ecommerce:
+
 http://numberless-leg.surge.sh/
+https://github.com/TheCoderDream/React-Ecommerce-App-with-Redux
