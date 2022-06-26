@@ -1,0 +1,16 @@
+.estiloH4{
+    background-color: #f5f5f5;
+    font-size: 16px;
+    font-family: Verdana;
+    padding: 10px;    
+}
+
+/*
+Estilo forma de implementar
+1 directamente en la etiqueta jsx: style={{}}
+2 objetos js que contenga propiedades del estilo
+3 archivo css --> className='estiloexterno'
+
+Bootstrap 5.x
+instalar comando: npm install bootstrap
+*/
