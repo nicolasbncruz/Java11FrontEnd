@@ -24,6 +24,7 @@ class Reloj extends Component {
   render() {
     return(
       <div className="container">
+        <p>Reloj con componente clase</p>
         <p className="bg-warning fs-2 shadow p-2 m-2">
           {this.state.fecha.toLocaleString()}</p>
       </div>

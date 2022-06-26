@@ -56,7 +56,7 @@ class Contador extends Component {
   render() {
     return (
       <div className="container">        
-        
+        <p>Contador clase</p>
         <div className="row">
           <div className="col col-4">
             <div className="card">

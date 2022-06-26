@@ -14,7 +14,8 @@ const RelojF = () => {
     return ()=>clearInterval(idFecha);
   })
 
-  return <div className="container">
+  return <div className="container">    
+    <p>Reloj con hook comp funcional</p>
     <p className="lead fs-2 bg-primary shadow text-white p-2 m-2">{fecha.toLocaleString()}</p>
   </div>
 };

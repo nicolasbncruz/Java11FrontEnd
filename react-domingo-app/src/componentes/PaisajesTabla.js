@@ -6,6 +6,7 @@ const PaisajesTabla = (props) => {
 
   return (
     <div className='container'>
+      <h2>tabla de paisajes</h2>
       <table className='table table-dark text-center '>
       {/* <table className='table table-striped text-center '> */}
       {/* <table className='table table-hover text-center '> */}
@@ -31,7 +32,7 @@ const PaisajesTabla = (props) => {
             }          
         </tbody>
       </table>
-      PaisajesTabla
+      
     </div>
   )
 };

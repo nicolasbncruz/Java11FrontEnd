@@ -4,15 +4,18 @@ import React from 'react';
 const PaisajesCard = (props) => {
   
   let [paisajes] = [props.paisajes];
+  let paisajesFiltro = paisajes.filter((paisaje)=>paisaje.continente===props.filtro);
+  console.log(paisajesFiltro);
   return (
     <div>
       
       <p className="lead fs-2 fw-bolder">
-        Se tiene un total de {paisajes.length} destinos [Paisajes Card]
+        {/* Se tiene un total de {paisajes.length} destinos [Paisajes Card] */}
+        Se tiene un total de 3 destinos [Paisajes Card]
       </p>
       <div className="row">
         {
-          paisajes.map((paisaje) => (
+          paisajesFiltro.map((paisaje) => (
             <div className="col col-4" key={paisaje.id}>
               
               <div className="card shadow m-2">
@@ -31,8 +34,7 @@ const PaisajesCard = (props) => {
           ))
         }
       </div>
-      <hr/>
-
+      {/* <hr/> */}
 
     </div>
   )

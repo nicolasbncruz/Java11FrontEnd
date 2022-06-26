@@ -36,6 +36,7 @@ const ContadorF = () => {
 
   return (
     <div className="container">
+      <p>Contador funcional (hook)</p>
       <div className="row">
         
         <div className="col col-4">
