@@ -40,7 +40,7 @@ const data = {
       id: "7",
       name: "Macbook Pro",
       price: 2999,
-      image: "./imagenes/7 Mackbook Pro.png",
+      image: "./imagenes/7 Macbook Pro.png",
     },
     {
       id: "8",
