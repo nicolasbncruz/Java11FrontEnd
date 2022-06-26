@@ -11,7 +11,7 @@ class Contador extends Component {
     this.setState({      
       contador: this.state.contador < 20 ? this.state.contador + 1 : 0,
     })
-  }
+  } 
 
   decrementarContador=()=>{
     this.setState({
@@ -40,7 +40,7 @@ class Contador extends Component {
       // contadorAutomatico: this.state.contadorAutomatico<150?0:0,
       indicador:'1'
     })
-  }
+  } 
 
   componentDidMount=()=>{
     this.id = setInterval(() => {

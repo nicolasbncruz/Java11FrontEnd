@@ -2,7 +2,7 @@
 
 //este es el Hook!!!
 import { useEffect, useState } from "react";
-
+ 
 const ContadorF = () => {
   //este es el Hook!!!
   const [contador, setContador] = useState(0);
