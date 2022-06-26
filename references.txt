@@ -1,0 +1,23 @@
+HEADPHONES
+Link: https://headphones-react.netlify.app/
+Repro: https://github.com/MartinAlexanderFloresTorres/deploment-headphones-react
+
+COTIZADOR DE CRIPTOMONEDAS:
+Link: https://criptomonedas-white-react.netlify.app/
+Source: https://github.com/MartinAlexanderFloresTorres/deploment-criptomonedas-react
+
+BLOCK DE NOTAS:
+Link: https://bloc-notas-react.netlify.app
+Source: https://github.com/MartinAlexanderFloresTorres/bloc-notas-react
+
+BUSCADOR DE PELICULAS:
+Link: https://buscador-peliculas-white-react.netlify.app/
+Source: https://github.com/MartinAlexanderFloresTorres/deploment-peliculas-white-react
+
+CLON DE NETFLIX:
+Link: https://netflix-react-white.netlify.app
+Source: https://github.com/MartinAlexanderFloresTorres/deploment-netflix-react
+
+BUSCADOR DE IMAGENES Y VIDEOS:
+Link: https://search-imagenes-react.netlify.app/
+Source : https://github.com/MartinAlexanderFloresTorres/deploment-buscador-imagenes-videos-react
