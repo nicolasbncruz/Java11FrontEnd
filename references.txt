@@ -1,3 +1,17 @@
+Reaccionando a portafolios: https://www.youtube.com/watch?v=4hr26eR_Kt0
+Tips:
+Habla en primera persona y se especifico (años de experiencia).
+Amarillo sobre negro hay mas contraste
+cuando no hay suficiente contraste no se alcanza a leer
+en lugar de mail:to usar formularios..
+Lo que el usuario ve antes de hacer scroll --> es lo mas importante..
+ordenar las tecnologias desde la que mas sabes hasta las que menos sabes..
+interlineado padding en los botones
+foto: debe estar nitida, debes estar relajado y casual
+--> Usar Remini para mejorar las fotos
+FaceApp para hacer sonreir a la persona.
+--> No usar un solo color: usar paleta
+
 HEADPHONES
 Link: https://headphones-react.netlify.app/
 Repro: https://github.com/MartinAlexanderFloresTorres/deploment-headphones-react
