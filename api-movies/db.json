@@ -1,0 +1,98 @@
+{
+    "directors": [
+        {
+            "id":1,
+            "nombre": "Alfred",
+            "apellidos": "Hitchcock",
+            "aniosExperiencia": 42
+        },        
+        {
+            "id":2,
+            "nombre": "Roman",
+            "apellidos": "Polanski",
+            "aniosExperiencia": 41
+        },
+        {
+            "id":3,
+            "nombre": "Steven",
+            "apellidos": "Spielberg",
+            "aniosExperiencia": 42
+        },
+        {
+            "id":4,
+            "nombre": "Quentin",
+            "apellidos": "Tarantino",
+            "aniosExperiencia": 33
+        },
+        {
+            "id":5,
+            "nombre": "Martin",
+            "apellidos": "Scorcese",
+            "aniosExperiencia": 47
+        }
+    ],
+    "peliculas":[
+        {
+            "id": 1,
+            "nombre": "Pupl Fiction",
+            "likes": 121,
+            "genero": "accion",
+            "directorId": 4
+        },
+        {
+            "id": 2,
+            "nombre": "ET",
+            "likes": 125,
+            "genero": "comedia",
+            "directorId": 3
+        },
+        {
+            "id": 3,
+            "nombre": "Reserved Dogs",
+            "likes": 107,
+            "genero": "accion",
+            "directorId": 4
+        },
+        {
+            "id": 4,
+            "nombre": "Go to the future",
+            "likes": 153,
+            "genero": "comedia",
+            "directorId": 3
+        },
+        {
+            "id": 5,
+            "nombre": "The Isirshman",
+            "likes": 118,
+            "genero": "accion",
+            "directorId": 5
+        },
+        {
+            "id": 6,
+            "nombre": "The Rosemary Baby",
+            "likes": 110,
+            "genero": "terror",
+            "directorId": 1
+        },
+        {
+            "id": 7,
+            "nombre": "Psicosis",
+            "likes": 105,
+            "genero": "terror",
+            "directorId": 1
+        },
+        {
+            "id": 8,
+            "nombre": "El hombre que sabia demasiado",
+            "likes": 97,
+            "genero": "drama",
+            "directorId": 1
+        }
+       
+    ]
+}
+
+
+
+
+

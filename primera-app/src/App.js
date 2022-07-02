@@ -1,16 +1,10 @@
-const App=()=> (  
-    <div className="App">
-      <header className="App-header">
-        <h1> Bienvenidos a EDTeam</h1>                
-        <a
-          className="App-link"
-          href="https://ed.team"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Visita nuestra web
-        </a>
-      </header>
+import Cupcake from "./Cupcake";
+import './App.css'
+
+const App = () => (  
+    <div className="container">
+      <Cupcake color="rosa" sabor="vainilla" foto="https://i.pinimg.com/originals/b3/8d/7f/b38d7f2483d2cf8a9c93b4e010682321.jpg"/>
+      <Cupcake color="azul" sabor="chocolate" foto="https://i.pinimg.com/originals/b3/8d/7f/b38d7f2483d2cf8a9c93b4e010682321.jpg"/>
     </div>   
   );
 

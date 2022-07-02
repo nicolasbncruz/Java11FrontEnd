@@ -1,0 +1,78 @@
+{
+    "chefs": [
+        {
+            "id":1,
+            "nombre": "Juan Perez",
+            "edad": 26
+        },
+        {
+            "id":2,
+            "nombre": "ricardo Rodriguez",
+            "edad": 27
+        },
+        {
+            "id":3,
+            "nombre": "Paolo Fernandez",
+            "edad": 28
+        },
+        {
+            "id":4,
+            "nombre": "Jeson Linares",
+            "edad": 29
+        },
+        {
+            "id":5,
+            "nombre": "Maria Angeles",
+            "edad": 28
+        }
+    ],
+    "platos":[
+        {
+            "id": 1,
+            "nombre": "Lomo Saltado",
+            "precio": 24.34,
+            "region": "costa",
+            "chefId": 1
+        },
+        {
+            "id": 2,
+            "nombre": "Aji de gallina",
+            "precio": 12.34,
+            "region": "costa",
+            "chefId": 3
+        },
+        {
+            "id": 3,
+            "nombre": "Lasagna",
+            "precio": 45.64,
+            "region": "internacional",
+            "chefId": 5
+        },
+        {
+            "id": 4,
+            "nombre": "Pachamanca",
+            "precio": 50.34,
+            "region": "sierra",
+            "chefId": 4
+        },
+        {
+            "id": 5,
+            "nombre": "Juane",
+            "precio": 24.34,
+            "region": "selva",
+            "chefId": 3
+        },
+        {
+            "id": 6,
+            "nombre": "Paella Valenciana",
+            "precio": 80.34,
+            "region": "internacional",
+            "chefId": 4
+        }
+    ]
+}
+
+
+
+
+
