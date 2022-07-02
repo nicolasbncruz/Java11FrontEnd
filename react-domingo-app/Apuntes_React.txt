@@ -1,0 +1,66 @@
+los compontnes tipo clase son los quye tiene ewstado
+
+contiene dos metodos en ciclo de vida
+componentDidMount
+componentWithUnmount
+
+set interval y mostrar en la pantalla el renderizado automatico
+
+
+estaos: es un objeti ihnerente a la clase
+
+
+en componentes tipo funcional se puede simular el estado
+para comp funcion -> usmos hooks
+
+useEffect es el equivalente al didMount de un componente clase
+
+El estado es inherente al componente clase
+los props pueden estar viaja del padre al hijo 
+no es inherente a los componentes 
+
+en el index.js me sale a cual componente estoy cagando
+el props no se declara en el padre sino en el hijo
+
+
+el estyado dene estar seteado dentro de una clase lambda en un componente clase
+
+el WillUnmount ahi se destruye
+
+
+En el Reloj funcional
+el useEffect debe estar la variable entre corchetes si o si
+
+el componente Did Mount es como un deamon 
+siempre esta atento en espera
+
+cada segundo va ejecutar el set interval
+
+
+sugiero usar extensiones de react snippets para vscode
+facilita el desarrollo y te evitas errores de sintaxis
+
+
+Notas:
+1. nombre archivo debe ser igual al nombre del componente: correcto
+2. padre -> hijo: no debe hijo llamar al padre: incorrecto
+3. padre -> hijo: padre llame al hijo: correcto
+
+ComponentePadre tiene el sgte jsx:
+<div>
+ <CompHijo caracteristica='Curso nivel avanzado' nombre='Java Advanced'>
+</div>
+DOM-->
+
+CompnHijo=(props)=>{
+	<p></p>
+	<p></p>
+}
+
+
+En el index.js Router vendria a ser un componentte de react? False 
+Router es una libreria de react-router-dom
+
+
+
+
