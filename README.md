@@ -18,4 +18,4 @@ Sushi: https://sushi.com/
 
 Editar logos PNG: https://www5.lunapic.com/editor/
 
-Plantilla: https://enterprises-self.vercel.app/manager
+Plantilla: https://enterprises-self.vercel.app
