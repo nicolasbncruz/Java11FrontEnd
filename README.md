@@ -19,6 +19,8 @@ https://www.orizon.co/
 
 Canales de Youtube: https://www.youtube.com/@Bedimcode | https://www.youtube.com/@CrypticalCoder
 
+Templates: https://startbootstrap.com/ | https://htmlcodex.com/
+
 ecommerce:
 http://numberless-leg.surge.sh/
 font: 
