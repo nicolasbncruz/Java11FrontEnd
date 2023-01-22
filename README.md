@@ -17,11 +17,7 @@ https://www.halo-lab.com/
 
 https://www.orizon.co/
 
-## Canales de Youtube:
-
-https://www.youtube.com/@Bedimcode
-
-https://www.youtube.com/@CrypticalCoder
+Canales de Youtube: https://www.youtube.com/@Bedimcode | https://www.youtube.com/@CrypticalCoder
 
 ecommerce:
 http://numberless-leg.surge.sh/
