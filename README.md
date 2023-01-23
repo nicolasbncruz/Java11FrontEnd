@@ -7,6 +7,8 @@ Apuntes de los conocimientos y prácticas para el correcto diseño de la capa de
 
 https://jgdurand.github.io/portafolio/
 
+https://elmerjacobo.com/
+
 https://sandhyamishra18.github.io/SANDHYA-PORTFOLIO.github.io/
 
 https://www.junho.io/
