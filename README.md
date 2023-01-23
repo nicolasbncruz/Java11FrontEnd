@@ -17,6 +17,8 @@ https://www.halo-lab.com/
 
 https://www.orizon.co/
 
+https://www.frontendpractice.com/
+
 Canales de Youtube: https://www.youtube.com/@Bedimcode | https://www.youtube.com/@CrypticalCoder
 
 Templates: https://startbootstrap.com/ | https://htmlcodex.com/
