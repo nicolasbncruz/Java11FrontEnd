@@ -38,6 +38,8 @@ Canales de Youtube: https://www.youtube.com/@Bedimcode | https://www.youtube.com
 
 Templates: https://startbootstrap.com/ | https://htmlcodex.com/ | https://themeforest.net/category/site-templates
 
+Resume: https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf
+
 ecommerce:
 http://numberless-leg.surge.sh/
 font: 
