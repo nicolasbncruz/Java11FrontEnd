@@ -35,6 +35,14 @@ https://armando-murillo.vercel.app/
 
 https://autonomicmind.com/
 
+https://libardo.vercel.app/
+
+https://portfolio-juancgalueweb.vercel.app/
+
+https://portfoliocamiloprog.netlify.app/
+
+
+
 Canales de Youtube: https://www.youtube.com/@Bedimcode | https://www.youtube.com/@CrypticalCoder
 
 Templates: https://startbootstrap.com/ | https://htmlcodex.com/ | https://themeforest.net/category/site-templates
