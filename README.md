@@ -33,6 +33,7 @@ https://frontend-portafolios.vercel.app/
 
 https://armando-murillo.vercel.app/
 
+https://autonomicmind.com/
 
 Canales de Youtube: https://www.youtube.com/@Bedimcode | https://www.youtube.com/@CrypticalCoder
 
