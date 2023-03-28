@@ -21,9 +21,22 @@ https://www.orizon.co/
 
 https://www.frontendpractice.com/
 
+https://www.sandraerentxun.dev/
+
+https://marlon-rt14.github.io/
+
+https://portfolio-profile-rg.vercel.app/
+
+https://jesusterancervantes.netlify.app/
+
+https://frontend-portafolios.vercel.app/
+
+https://armando-murillo.vercel.app/
+
+
 Canales de Youtube: https://www.youtube.com/@Bedimcode | https://www.youtube.com/@CrypticalCoder
 
-Templates: https://startbootstrap.com/ | https://htmlcodex.com/
+Templates: https://startbootstrap.com/ | https://htmlcodex.com/ | https://themeforest.net/category/site-templates
 
 ecommerce:
 http://numberless-leg.surge.sh/
