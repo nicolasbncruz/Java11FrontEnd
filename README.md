@@ -5,43 +5,7 @@ Apuntes de los conocimientos y prácticas para el correcto diseño de la capa de
 
 ## Sitios web y portafolios interesantes
 
-https://jgdurand.github.io/portafolio/
-
-https://elmerjacobo.com/
-
-https://sandhyamishra18.github.io/SANDHYA-PORTFOLIO.github.io/
-
-https://www.junho.io/
-
-https://michaelpumo.com/
-
-https://www.halo-lab.com/
-
-https://www.orizon.co/
-
-https://www.frontendpractice.com/
-
-https://www.sandraerentxun.dev/
-
-https://marlon-rt14.github.io/
-
-https://portfolio-profile-rg.vercel.app/
-
-https://jesusterancervantes.netlify.app/
-
-https://frontend-portafolios.vercel.app/
-
-https://armando-murillo.vercel.app/
-
-https://autonomicmind.com/
-
-https://libardo.vercel.app/
-
-https://portfolio-juancgalueweb.vercel.app/
-
-https://portfoliocamiloprog.netlify.app/
-
-
+https://jgdurand.github.io/portafolio/ | https://elmerjacobo.com/ | https://sandhyamishra18.github.io/SANDHYA-PORTFOLIO.github.io/ | https://www.junho.io/ |  https://michaelpumo.com/ | https://www.halo-lab.com/ | https://www.orizon.co/ | https://www.frontendpractice.com/ | https://www.sandraerentxun.dev/ | https://marlon-rt14.github.io/ | https://portfolio-profile-rg.vercel.app/ | https://jesusterancervantes.netlify.app/ | https://frontend-portafolios.vercel.app/ | https://armando-murillo.vercel.app/ | https://autonomicmind.com/ | https://libardo.vercel.app/ | https://portfolio-juancgalueweb.vercel.app/ | https://portfoliocamiloprog.netlify.app/ | https://yagoid.github.io/
 
 Canales de Youtube: https://www.youtube.com/@Bedimcode | https://www.youtube.com/@CrypticalCoder
 
