@@ -28,6 +28,8 @@ Plantilla: https://enterprises-self.vercel.app
 
 Library Confetti: https://www.cssscript.com/confetti-falling-animation/
 
+Suggestions: https://caninclude.glitch.me/
+
 RedSocial:
 https://medium.com/@profesionaljava
 https://dev.to/profesionaljava
