@@ -36,5 +36,8 @@ https://medium.com/@profesionaljava
 https://dev.to/profesionaljava
 
 New Relic:
-https://glitch.com/@nicolascruz
+https://glitch.com/@nicolascruz |
 https://one.newrelic.com/nr1-core?account=3778570&duration=259200000&state=dc5614e8-67d1-9fdb-32a0-4dc2dc9da0ae
+
+AWS:
+https://dev.to/aws-builders/how-i-passed-the-aws-certified-sysops-exam-3if |
