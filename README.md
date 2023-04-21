@@ -10,7 +10,7 @@ https://jgdurand.github.io/portafolio/ | https://elmerjacobo.com/ | https://sand
 
 Canales de Youtube: https://www.youtube.com/@Bedimcode | https://www.youtube.com/@CrypticalCoder
 
-Templates: https://startbootstrap.com/ | https://htmlcodex.com/ | https://themeforest.net/category/site-templates
+Templates: https://startbootstrap.com/ | https://htmlcodex.com/ | https://themeforest.net/category/site-templates | https://collectui.com/
 
 Resume: https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf
 
