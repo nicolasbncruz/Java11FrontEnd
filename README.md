@@ -41,3 +41,5 @@ https://one.newrelic.com/nr1-core?account=3778570&duration=259200000&state=dc561
 
 AWS:
 https://dev.to/aws-builders/how-i-passed-the-aws-certified-sysops-exam-3if |
+
+MongoDB: https://learn.mongodb.com/learning-paths/introduction-to-mongodb
