@@ -43,3 +43,6 @@ AWS:
 https://dev.to/aws-builders/how-i-passed-the-aws-certified-sysops-exam-3if |
 
 MongoDB: https://learn.mongodb.com/learning-paths/introduction-to-mongodb
+
+Java Oracle:
+https://mylearn.oracle.com/ou/learning-path/java-explorer/79726 | https://mylearn.oracle.com/ou/learning-path/mysql-explorer/79674
