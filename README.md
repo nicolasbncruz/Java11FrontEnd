@@ -46,3 +46,5 @@ MongoDB: https://learn.mongodb.com/learning-paths/introduction-to-mongodb
 
 Java Oracle:
 https://mylearn.oracle.com/ou/learning-path/java-explorer/79726 | https://mylearn.oracle.com/ou/learning-path/mysql-explorer/79674
+
+Favorite WebSite: https://8ujdev.com
